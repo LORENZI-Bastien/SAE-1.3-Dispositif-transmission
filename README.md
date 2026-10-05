@@ -26,4 +26,3 @@ Projet en autonomie.
 
 - [Support de présentation](SAE%20supports%20de%20transmission.pptx)
 - [Calculs et mesures](Calcul%20mesures.ods)
-- [Auto-évaluation](auto-%C3%A9valuation.odt)
