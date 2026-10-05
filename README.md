@@ -21,3 +21,9 @@ Mise en place du réseau Wi-Fi et tableau de calcul de puissance selon la distan
 Projet en autonomie.
 
 [Mon portfolio](https://wonderful-chebakia-f83e9d.netlify.app/#projets)
+
+## Livrables
+
+- [Support de présentation](SAE%20supports%20de%20transmission.pptx)
+- [Calculs et mesures](Calcul%20mesures.ods)
+- [Auto-évaluation](auto-%C3%A9valuation.odt)
